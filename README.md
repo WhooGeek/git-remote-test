@@ -33,17 +33,20 @@
 ## 💬 프로젝트 배경
 
 
+![노인학습](https://private-user-images.githubusercontent.com/74580387/352375707-d36cbd78-a146-4e47-91b8-260c5c0388b7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NzE3NDYsIm5iZiI6MTcyMTk3MTQ0NiwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNzU3MDctZDM2Y2JkNzgtYTE0Ni00ZTQ3LTkxYjgtMjYwYzVjMDM4OGI3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA1MjQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzOTlkNTExNTMzZmE1MWQ0NjgxZWIxMzgwYjI5MDhiODIzNDY2YzdjMzc0NWEwZDEwMDdlNDBlMDgxNmI1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CZh_8MNCd_QMwkxbRaOjXNraDCiQJT5LZdlN5NSF7AU)
+[노인 학습에 관한 연구](https://private-user-images.githubusercontent.com/74580387/352375707-d36cbd78-a146-4e47-91b8-260c5c0388b7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NzE3NDYsIm5iZiI6MTcyMTk3MTQ0NiwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNzU3MDctZDM2Y2JkNzgtYTE0Ni00ZTQ3LTkxYjgtMjYwYzVjMDM4OGI3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA1MjQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzOTlkNTExNTMzZmE1MWQ0NjgxZWIxMzgwYjI5MDhiODIzNDY2YzdjMzc0NWEwZDEwMDdlNDBlMDgxNmI1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CZh_8MNCd_QMwkxbRaOjXNraDCiQJT5LZdlN5NSF7AU)
 
-[사진]
-http://dailydgnews.com/news/article.html?no=104497
+![취미활동 효과](https://private-user-images.githubusercontent.com/74580387/352377430-dd9943b1-1216-4358-8595-11588b2636a1.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NzIwNDcsIm5iZiI6MTcyMTk3MTc0NywicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNzc0MzAtZGQ5OTQzYjEtMTIxNi00MzU4LTg1OTUtMTE1ODhiMjYzNmExLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA1MjkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjM2EyYTc0ZmIzYjQxODMxNWYxNWYxNzlkNGE5MGI1MjkxMmQyOTIwNDFjNmVjOWViMjQ4NmQ1OTllNDIzZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.adM-KYUjKcykZfDUEYXxSTeqb7tuDVFMGFCN6iKI2zs)
+[취미활동 효과](https://www.chosun.com/medical/2023/10/18/B5PZBAYPXFHVTCDRUE3PVN47ZM/)
 
-https://m.health.chosun.com/svc/news_view.html?contid=2019071801252
 
-https://www.chosun.com/medical/2023/10/18/B5PZBAYPXFHVTCDRUE3PVN47ZM/
+![취미활동 효과](https://private-user-images.githubusercontent.com/74580387/352379075-4a28e705-5503-414d-96b0-823d7ae27124.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NzIyNDcsIm5iZiI6MTcyMTk3MTk0NywicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNzkwNzUtNGEyOGU3MDUtNTUwMy00MTRkLTk2YjAtODIzZDdhZTI3MTI0LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA1MzIyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMzMwODEyYTc2NGUzMjQ1ODQwZGRhOTRmNmQyNTkxYzg5ODRkOTFiZjY0YmE4YjM4NzQ4MWY0ZTIxNDQ2NzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SRFLrJOxw4MzyJYoiJgguxQEsfztS6uGFWhLBp3fJjM)
+[취미활동 현황](https://www.hankyung.com/article/2024040878281)
+![취미활동 좋아](https://private-user-images.githubusercontent.com/74580387/352379588-b20f38f8-a8b4-4851-b2e2-43d4d2295dd1.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NzIzMTYsIm5iZiI6MTcyMTk3MjAxNiwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNzk1ODgtYjIwZjM4ZjgtYThiNC00ODUxLWIyZTItNDNkNGQyMjk1ZGQxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA1MzMzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkNzExMjg4NWI0OTA0MmU5MzYyN2VlNjMzYjQyMzk5NGFhN2M5NzVhNGM2ZWJkNDJkZmFiMmJhMDk3ODZkMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zRFtsXZ01EpvQZ6xH6HaYzfBFBCh3hG4ndKjQa84aMA)
+[취미활동 증진](https://mobile.hidoc.co.kr/healthstory/news/C0000829108)
 
-https://www.hankyung.com/article/2024040878281
+<br/>
 
-https://mobile.hidoc.co.kr/healthstory/news/C0000829108
 
 
 
@@ -159,36 +162,664 @@ https://mobile.hidoc.co.kr/healthstory/news/C0000829108
 </br>
 </br>
 
-## 📋 주요쿼리
+## 📋 코드 실행
+
 <details>
-<summary> DDL</summary>
+<summary> 회원</summary>
+<div markdown="1">
+
+<details>
+<summary> 회원가입 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 내 정보 수정 </summary>
 <div markdown="1">
 
 내용
 
 </div>
 </details>
+
+<details>
+<summary> 내 정보 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 내 정보 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 아이디 찾기 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 비밀번호 찾기 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 회원탈퇴 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 사업자 인증 신청 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+</div>
+</details>
+
 </br>
-<details>
-
-<summary> 프로시저 </summary>
-<div markdown="1">
-
-내용
-
-</div>
-</details>
-
 
 </br>
+
 <details>
-<summary> 트리거 </summary>
+<summary> 관리자 </summary>
+<div markdown="1">
+
+<details>
+<summary> 사업자 인증 승인 </summary>
 <div markdown="1">
 
 내용
 
 </div>
 </details>
+
+<details>
+<summary> 신고 내역 처리 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 신고 내역 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+</div>
+</details>
+
+</br>
+
+</br>
+
+
+<details>
+<summary> 원데이클래스 </summary>
+<div markdown="1">
+
+<details>
+<summary> 정보조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 정보 상세 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 정보 등록 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 정보 수정 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 정보 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 클래스 상태 변경 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 클래스 출석 확인 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 등록 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 목록 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 상세 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 수정 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 상세조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 수정 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 게시글 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 문의 답변 등록 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 원데이클래스 신고 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+
+</div>
+</details>
+
+</br>
+
+</br>
+
+<details>
+<summary> 후기 </summary>
+<div markdown="1">
+
+<details>
+<summary> 후기 목록 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 후기 작성 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 후기 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 후기 신고 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 후기 좋아요 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 좋아요 수 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 후기 좋아요 취소 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+</div>
+</details>
+
+</br>
+
+</br>
+
+<details>
+<summary> 예약 </summary>
+<div markdown="1">
+
+<details>
+<summary> 예약 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 예약 상세 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 예약자 목록 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 예약자 상세 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 예약 등록 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 예약 상태 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+</div>
+</details>
+
+</br>
+
+</br>
+
+<details>
+<summary> 커뮤니티 </summary>
+<div markdown="1">
+
+<details>
+<summary> 게시글 작성 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 게시글 목록 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 게시글 검색 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 게시글 수정 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 게시글 상세 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 게시글 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 댓글 작성 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 댓글 수정 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 댓글 삭제 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 댓글 신고 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 게시글 신고 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+</div>
+</details>
+
+</br>
+
+</br>
+
+<details>
+<summary> 쿠폰 </summary>
+<div markdown="1">
+
+<details>
+<summary> 쿠폰 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 쿠폰 신청 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 쿠폰 등록 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 쿠폰 상태 변경 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 쿠폰 사용 상태 변경 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 쿠폰 발급 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+</div>
+</details>
+
+</br>
+
+</br>
+
+<details>
+<summary> 찜하기 </summary>
+<div markdown="1">
+
+<details>
+<summary> 찜하기 등록 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+<details>
+<summary> 찜하기 취소 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+<details>
+<summary> 찜한 목록 조회 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details>
+
+</div>
+</details>
+
+</br>
+
+</br>
+
+<details>
+<summary> 알림 </summary>
+<div markdown="1">
+
+<details>
+<summary> 알림 </summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+
+</div>
+</details>
+
+</br>
+
 </br></br>
 
 ## 📚 테스트케이스
