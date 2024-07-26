@@ -8,12 +8,13 @@
 
 </br>
 </br>
-</br>
+
 
 <center>
 
-|권형미|김민주|김영기|김윤후|김재훈|박설빈|
-|---|---|---|---|---|---|
+|<img src="https://avatars.githubusercontent.com/u/108400640?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128581270?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/77000498?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/74580387?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/174398545?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/106576062?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|권형미<br/>[@hyomee2](https://github.com/hyomee2)|김민주<br/>[@minju0224](https://github.com/minju0224)|김영기<br/>[@we4sley](https://github.com/we4sley)|김윤후<br/>[@WhooGeek](https://github.com/WhooGeek)|김재훈<br/>[@KimJaehoon64](https://github.com/김재훈)|박설빈<br/>[@seolbin01](https://github.com/seolbin01)|
 
 
 </center>
@@ -119,37 +120,43 @@ https://mobile.hidoc.co.kr/healthstory/news/C0000829108
 ## ⚙️기술 스택
 <center>
 
-|<center>사진</center>|<center>사진</center>|<center>사진</center>|
-|----|-----|---|
-|<center>**DA#**</center>|<center>**MariaDB**</center>|<center>**Ubuntu**</center>|
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
+<img src="https://img.shields.io/badge/da%23-84A454?style=for-the-badge&logo=&logoColor=black" alt="da#">
 
 </center>
 
 </br></br>
 
 ## 📊 요구사항 명세서
+[요구사항명세서](https://docs.google.com/spreadsheets/d/1mdhQfdmFI1jnJKDHw_IMOMzlSMDA2RDemo6jV-6zJkY/edit?gid=0#gid=0)
 <img width="{해상도 비율}" src="{}"/>
 </br></br>
 
 ## ⛓️‍💥 WBS
-<img width="{해상도 비율}" src="{}"/>
+[WBS](https://docs.google.com/spreadsheets/d/1mdhQfdmFI1jnJKDHw_IMOMzlSMDA2RDemo6jV-6zJkY/edit?gid=1957226264#gid=1957226264)
+<img width="1100" src="https://private-user-images.githubusercontent.com/74580387/352345840-0491bcca-a6fb-4f0d-83fb-83dd0aa46401.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NjE0MzMsIm5iZiI6MTcyMTk2MTEzMywicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNDU4NDAtMDQ5MWJjY2EtYTZmYi00ZjBkLTgzZmItODNkZDBhYTQ2NDAxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDAyMzIxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3NzllMTYxMzg2NjhhYjkzMzQ3MjQyMmVmMzMyYzY4NmZiZWMwYjJlMzA5MzgxNThhYzkxYzAwMjA0MGU1MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Sc8rBRBNkbFQaoDFMcmYXTQ4LkROuXS231RpIKIv_c4"/>
 </br></br>
 
-## ✏️ DB테이블
+## ✏️ ERD
 - **ERD**
 </br>
-<사진>
+<img width="2000" src="https://private-user-images.githubusercontent.com/74580387/352352082-73135937-5497-4f01-8642-a8f3ca40f65d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NjM1NjEsIm5iZiI6MTcyMTk2MzI2MSwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNTIwODItNzMxMzU5MzctNTQ5Ny00ZjAxLTg2NDItYThmM2NhNDBmNjVkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDAzMDc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlM2E0YjY2ZjNlY2U5M2MxNTQwNjk2MDZlZDYyNTY0NTM2NjFiM2U1MDUwZWE5YmU5MDBmYTZkYmU2YWEyOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.B04rdHh5WTsMGER15JirnVktFH2kcVuQCF1SpyFF3gY">
 </br></br>
+
 
 ## ✏️ DB모델링
 - 논리 모델링
 </br>
-<사진>
+<img width="1100" src="https://private-user-images.githubusercontent.com/74580387/352351407-2a340491-57bf-4966-adaa-2a2c2fec3242.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NjMzMTQsIm5iZiI6MTcyMTk2MzAxNCwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNTE0MDctMmEzNDA0OTEtNTdiZi00OTY2LWFkYWEtMmEyYzJmZWMzMjQyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDAzMDMzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5NDI2Zjg3NDNkNDlhYmM1Y2VmMzAyNWU2ZWM5MmE0YjQzZDlmYzQwNjczNGVlOGUzYTM4ODc2ZGY3NzVjZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5aa5iOfekQ4AOVh5-prZWvVN3BQGnf4_8z1u2ZK4Sug">
 </br>
 </br>
 - 물리 모델링
 </br>
-<사진>
+<img width="1100" src="https://private-user-images.githubusercontent.com/74580387/352351428-4f22af47-42fe-4294-9a14-0f1d6fe9b5a7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NjMzMTQsIm5iZiI6MTcyMTk2MzAxNCwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNTE0MjgtNGYyMmFmNDctNDJmZS00Mjk0LTlhMTQtMGYxZDZmZTliNWE3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDAzMDMzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyZGIxNzAyZjI1NDM0MWFmNWVkZDFiZmViZDgxMTg5MzgzZjk2NDRiNTk4OGZlZDQ1NjFmZjk0ZDIyOWI4ZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k8XqVVCpR_gzZreftLdg7DRIjraubloDnhEWypfV3yo">
 </br>
 </br>
 
@@ -186,5 +193,6 @@ https://mobile.hidoc.co.kr/healthstory/news/C0000829108
 </br></br>
 
 ## 📚 테스트케이스
-
-<사진>
+[테스트케이스](https://docs.google.com/spreadsheets/d/1mdhQfdmFI1jnJKDHw_IMOMzlSMDA2RDemo6jV-6zJkY/edit?gid=687187419#gid=687187419)
+<img width="1100" src="https://private-user-images.githubusercontent.com/74580387/352350191-ce24562f-9073-435f-aebe-a79131e75d85.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NjI4ODMsIm5iZiI6MTcyMTk2MjU4MywicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNTAxOTEtY2UyNDU2MmYtOTA3My00MzVmLWFlYmUtYTc5MTMxZTc1ZDg1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDAyNTYyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjOGVlMzg1MjFiODgwZWNlMTYxZGJjY2RmZjc4N2Q1MTdjNjA4YWI3MzZkYzM0ZmU5ZTI3NmQ3ZTc0ODk1ODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QSgOllw89qAnGRnb8TY5RyPKq8Qgq3OhZqxuDQyOix8">
+<img width="1100" src="https://private-user-images.githubusercontent.com/74580387/352347626-3e6132ca-1ccb-445b-aa6c-a6cde0c0e4dd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NjIwMDgsIm5iZiI6MTcyMTk2MTcwOCwicGF0aCI6Ii83NDU4MDM4Ny8zNTIzNDc2MjYtM2U2MTMyY2EtMWNjYi00NDViLWFhNmMtYTZjZGUwYzBlNGRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDAyNDE0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MTFiYzdmY2UyMGM5ZjE1NjExMDFhODYwZDVkNDFhNWJlNDk1MDQ0MmM2ZGUwY2FiMTZjYWNiNGUzYTk2YTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.O7M7Pz2VZW3J09Y4m3FFdgvYamY37K5fXD-_8oE04a0"/>
